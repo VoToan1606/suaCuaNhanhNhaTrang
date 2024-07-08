@@ -1,0 +1,33 @@
+:root {
+  --primary-color: #0037ff;
+  --second-color: #a6a6a6;
+  --third-color: #f1f1f1;
+  --header-width: 230px;
+}
+
+* {
+  box-sizing: inherit;
+  margin: 0;
+}
+
+html {
+  box-sizing: border-box;
+  font-size: 62.5%;
+  font-family: "Roboto", sans-serif;
+}
+
+ul {
+  padding-left: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.relative {
+  position: relative;
+}
